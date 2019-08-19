@@ -1,18 +1,18 @@
 # Binarized Neural Network 
 ## Pytorch & Jupyter Notebook Implementation
-This Repo is for Neural Network 1 bit Quantization Implementation.
-M.Courbariaux's BNN.
+This Repo is for Neural Network 1 bit Quantization Implementation.  
+M.Courbariaux's BNN.  
 
 
 ## In Progress 
-- First Upload
-1. Deterministic Binarization with STE 
-2. Full-Precision Weight & Binarized Weight
-3. Gradient Update
-4. Binary Activation & Weight version
-
-- 2019.08.19
-5. It works well, but still insufficient network final accuracy. * Anyone give me some idea? *
+- First Upload  
+1. Deterministic Binarization with STE  
+2. Full-Precision Weight & Binarized Weight  
+3. Gradient Update  
+4. Binary Activation & Weight version  
+  
+- 2019.08.19  
+5. It works, but still insufficient network final accuracy. 
 
 
 ## References
