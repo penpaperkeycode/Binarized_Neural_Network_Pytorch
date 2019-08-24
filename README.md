@@ -2,7 +2,9 @@
 ## Pytorch & Jupyter Notebook Implementation
 This Repo is for Neural Network 1 bit Quantization Implementation.  
 M.Courbariaux's BNN.  
-
+Jupyter notebook + Google Colab + PyTorch
+Python 3.7
+PyTorch 1.1.0
 
 ## In Progress 
 - First Upload  
