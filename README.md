@@ -14,7 +14,7 @@ PyTorch 1.1.0.
 4. Binary Activation & Weight version  
   
 - 2019.08.19  
-5. It works, but still insufficient network final accuracy. 
+5. It works, but still insufficient network final accuracy. -> User might change architecture & hyper parameter setting
 
 
 ## References
