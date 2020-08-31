@@ -6,15 +6,6 @@ Jupyter notebook + Google Colab + PyTorch,
 Python 3.7,  
 PyTorch 1.1.0.  
 
-## In Progress 
-- First Upload  
-1. Deterministic Binarization with STE  
-2. Full-Precision Weight & Binarized Weight  
-3. Gradient Update  
-4. Binary Activation & Weight version  
-  
-- 2019.08.19  
-5. It works, but still insufficient network final accuracy. -> User might change architecture & hyper parameter setting
 
 
 ## References
